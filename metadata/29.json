@@ -1,0 +1,11 @@
+{
+    "name": "Lara",
+    "description": "Hello, I am a successful manager by day and a powerful superhero by night. I have a passion for leading and empowering others to reach their full potential. During the day, I manage a team of talented professionals at a high-growth company, driving productivity and success. But when the night falls, I transform into my alter ego and use my superpowers to fight against evil forces threatening the city. I have the power of super strength and flight, which I use to physically overpower villains and protect the innocent. I also have exceptional leadership skills, which I use to rally and organize other superheroes to work together on missions. With my bravery and determination, I am always ready to defend the city and its inhabitants.",
+    "image": "https://example.com/my-nft.png",
+    "attributes": [
+        {
+            "trait_type": "Role",
+            "value": "Manager"
+        }
+    ]
+}

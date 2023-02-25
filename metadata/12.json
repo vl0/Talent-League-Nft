@@ -1,0 +1,11 @@
+{
+    "name": "Elijah",
+    "description": "Hi there, I am a graphic designer by day and a superhero by night. I have a passion for using my creativity and imagination to make the world a better place. During the day, I work at a design firm, creating beautiful and impactful designs for my clients. But when the night falls, I transform into my alter ego and use my superpowers to fight against evil forces threatening the city. I have the power of invisibility and telekinesis, which I use to sneak up on villains and stop their evil plans. I also have a keen eye for detail, which helps me solve puzzles and crack codes. My design background also comes in handy when I need to create distractions or camouflage to protect the innocent. With my bravery and intelligence, I am always ready to defend the city and its inhabitants.",
+    "image": "https://example.com/my-nft.png",
+    "attributes": [
+        {
+            "trait_type": "Role",
+            "value": "Designer"
+        }
+    ]
+}

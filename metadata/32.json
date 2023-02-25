@@ -1,0 +1,11 @@
+{
+    "name": "Sebastian",
+    "description": "Hello, I am a marketing manager by day and a heroic superhero by night. I have a passion for using my imagination and marketing skills to tell compelling stories and inspire change. During the day, I lead a team of creative minds at a top marketing firm, creating campaigns that captivate and engage audiences. But when the night falls, I transform into my alter ego and use my superpowers to fight against evil forces threatening the city. I have the power of mind control and illusion, which I use to manipulate the thoughts and perceptions of villains and to create distractions that protect the innocent. I also have a keen understanding of human behavior, which I use to anticipate the moves of villains and to rally the support of the public for our cause. With my bravery and intelligence, I am always ready to defend the city and its inhabitants.",
+    "image": "https://example.com/my-nft.png",
+    "attributes": [
+        {
+            "trait_type": "Role",
+            "value": "Marketeer"
+        }
+    ]
+}

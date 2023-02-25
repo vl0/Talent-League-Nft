@@ -1,0 +1,11 @@
+{
+    "name": "Isabella",
+    "description": "Hello, I am a software engineer by day and a superhero by night. I have a passion for using technology to make the world a better place. During the day, I work at a tech company, developing innovative solutions to complex problems. But when the night falls, I transform into my alter ego, ready to use my technical skills and gadgets to protect the city from evil forces. My expertise in coding and problem-solving allows me to hack into enemy systems, disrupt their plans, and protect the innocent. I have a high-tech suit equipped with a variety of useful tools, such as a grappling hook, a laser cutter, and a holographic decoy. With my bravery and intelligence, I am always ready to defend the city and its inhabitants.",
+    "image": "https://example.com/my-nft.png",
+    "attributes": [
+        {
+            "trait_type": "Role",
+            "value": "Developer"
+        }
+    ]
+}
