@@ -9,7 +9,4 @@ DEPLOY SCRIPTS
 2. deploy_simple.js -> deploys smart contract (must manualy past URI addresses)
 3. mint.js -> calls contract mint function (mints 100 NFTs and send to wallet)
 
-https://github.com/Draichi/gloxis-NFT/blob/main/contracts/Gloxis.sol
-https://github.com/PatrickAlphaC/hardhat-nft-fcc
 
-https://www.youtube.com/watch?v=gyMwXuJrbJQ
